@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @Divyanshrautela
-- 👀 I’m interested in coding
-- 🌱 I’m currently doing computer science enginering
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me gmail
+- 👀I'm a computer enthusiast with a passion for coding
+- 🌱  currently pursuing computer science enginering from GEHU Bhimtal
+- 💞️ I’m looking to collaborate on web development,competitive programming
+- 📫 reach me gmail(rdivyansh1104@gmail.com) or via linkedin(DIVYANSH RAUTELA)
 - 😄 Pronouns: male
-- ⚡ Fun fact: i like workout
+- ⚡ Fun fact: i like doing workout training and gaming
 
-<!---
-Divyanshrautela/Divyanshrautela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
